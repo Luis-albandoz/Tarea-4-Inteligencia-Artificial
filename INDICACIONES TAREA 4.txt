@@ -1,0 +1,6 @@
+INDICACIONES TAREA 4:
+
+Se utilizan los siguientes códigos en Google Colab: "Luis_Albandoz_Tarea_4_C1_Autoencoder.ipynb", 
+"Luis_Albandoz_Tarea_4_C2_DCGAN.ipynb" y "Luis_Albandoz_Tarea_4_C3_Style_Transfer.ipynb".
+
+Para ejecutar estos códigos se deben ejecutar por GPU, por ej: si se ejecuta el código "Luis_Albandoz_Tarea_4_C1_Autoencoder.ipynb" el resto de los códigos deben estar cerrados para evitar problemas durante la ejecución.
